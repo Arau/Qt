@@ -1,0 +1,2 @@
+## Descripció
+>Dissenyeu  una  aplicació  amb  una  interfície  com  la  que  surt  a  la  imatge.  En  aquesta aplicació, tenim un element que ens permet entrar text (QLineEdit) i una etiqueta que ens el  mostra.  A  més,  tenim  un  slider.  Cada  vegada  que  es  mou  l’slider,  es  trunca  la  cadena indicada al text amb el nombre de caràcters indicat per l’slider. D’aquesta forma, si tenim el  valor  11,  el  text  màxim  que  apareixerà  a  l’etiqueta  serà  d’onze  lletres.  Si  canviem  el valor de l’slider, el text s’ha de truncar si així toca.  
